@@ -1,22 +1,22 @@
 {
   "1": {
     "text": "Vitaj v miestnosti 1 ",
-    "image": "https://raw.github.com/tatianaurb/rooms-data/blob/main/images/room1.jpg"
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room1.jpg"
   },
   "2": {
     "text": "Vitaj v miestnosti 2 ",
-    "image": "https://raw.github.com/tatianaurb/rooms-data/blob/main/images/room2.jpg"
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg"
   },
   "3": {
     "text": "Vitaj v miestnosti 3 ",
-    "image": "https://raw.github.com/tatianaurb/rooms-data/blob/main/images/room3.jpg"
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room3.jpg"
   },
   "4": {
     "text": "Vitaj v miestnosti 4 ",
-    "image": "https://raw.github.com/tatianaurb/rooms-data/blob/main/images/room4.jpg"
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room4.jpg"
   },
   "5": {
     "text": "Vitaj v miestnosti 5 ",
-    "image": "https://raw.github.com/tatianaurb/rooms-data/blob/main/images/room5.jpg"
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room5.jpg"
   }
 }
