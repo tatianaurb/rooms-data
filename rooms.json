@@ -1,0 +1,17 @@
+{
+  "1": {
+    "name": "Miestnosť 1",
+    "description": "Vitaj v miestnosti 1 👋",
+    "qr": "1"
+  },
+  "2": {
+    "name": "Miestnosť 2",
+    "description": "Laboratórium informatiky 💻",
+    "qr": "2"
+  },
+  "3": {
+    "name": "Miestnosť 3",
+    "description": "Učebňa elektrotechniky ⚡",
+    "qr": "3"
+  }
+}
