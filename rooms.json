@@ -1,22 +1,42 @@
 {
   "1": {
-    "text": "Vitaj v miestnosti AB123   ",
-    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg"
+    "text": "Vitaj v miestnosti BD333   ",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg",
+    "coords": {
+    "left": "46.5%",
+    "top": "6.50%"
+  }
   },
   "2": {
-    "text": "Vitaj v miestnosti 2 ",
-    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg"
+    "text": "Vitaj v miestnosti BD335 ",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg",
+    "coords": {
+    "left": "25.86%",
+    "top": "7.02%"
+  }
   },
   "3": {
-    "text": "Vitaj v miestnosti 3 ",
-    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room3.jpg"
+    "text": "Vitaj v miestnosti BD303 ",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room3.jpg",
+    "coords": {
+    "left": "75.75%",
+    "top": "24.90%"
+  }
   },
   "4": {
-    "text": "Vitaj v miestnosti 4 ",
-    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room4.jpg"
+    "text": "Vitaj v miestnosti BD301 ",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room4.jpg",
+    "coords": {
+    "left": "48.98%",
+    "top": "24.00%"
+  }
   },
   "5": {
-    "text": "Vitaj v miestnosti 5 ",
-    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room5.jpg"
+    "text": "Vitaj v miestnosti BD308 ",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room5.jpg",
+     "coords": {
+    "left": "51.71%",
+    "top": "62.45%"
+  }
   }
 }
