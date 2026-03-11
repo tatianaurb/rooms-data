@@ -1,6 +1,6 @@
 {
   "vstup": {
-    "text": "Nachádzate sa pred budovou fakulty. Vstup do budovy je priamo pred vami. Po vstupe sa dostanete do lobby, odkiaľ sa môžete presunúť na jednotlivé poschodia budovy.",
-    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/outside/vonku.jpg",
+    "text": "Nachádzate sa pred budovou fakulty. Vstup do budovy je priamo pred vami.",
+    "image":"https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/outside/vonku.jpg",
   }
 }
