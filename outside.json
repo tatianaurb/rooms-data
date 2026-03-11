@@ -1,6 +1,6 @@
 {
   "vstup": {
     "text": "Nachádzate sa pred budovou fakulty. Vstup do budovy je priamo pred vami.",
-    "image":"https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/outside/vonku.jpg",
+    "panorama":"https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/outside/vonku.jpg",
   }
 }
