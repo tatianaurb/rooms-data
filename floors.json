@@ -1,0 +1,27 @@
+{
+  "outside": {
+    "label": "Vonku",
+    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/outside.jpg",
+    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/outside.json"
+  },
+  "lobby": {
+    "label": "Lobby",
+    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/lobby.jpg",
+    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/lobby.json"
+  },
+  "first": {
+    "label": "1. poschodie",
+    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/first.jpg",
+    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/first.json"
+  },
+  "second": {
+    "label": "2. poschodie",
+    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/second.jpg",
+    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/second.json"
+  },
+  "third": {
+    "label": "3. poschodie",
+    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/third-floor.jpg",
+    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/third.json"
+  }
+}
