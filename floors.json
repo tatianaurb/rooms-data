@@ -22,6 +22,6 @@
   "third": {
     "label": "3. poschodie",
     "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/maps/third.png",
-    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/third.json"
+    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/third.json"
   }
 }
