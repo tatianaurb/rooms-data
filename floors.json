@@ -1,7 +1,7 @@
 {
   "outside": {
     "label": "Vonku",
-    "panorama": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/outside/vonku.jpg"
+    "panorama": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/outside/vonku.jpg"
   },
   "lobby": {
     "label": "Lobby",
