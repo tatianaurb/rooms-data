@@ -3,7 +3,7 @@
     "text": "Vitaj v miestnosti BD333",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg",
     "coords": {
-      "left": "50%",
+      "left": "49%",
       "top": "5%"
     }
   },
@@ -11,7 +11,7 @@
     "text": "Vitaj v miestnosti BD335",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg",
     "coords": {
-      "left": "15%",
+      "left": "20%",
       "top": "6%"
     }
   },
@@ -19,7 +19,7 @@
     "text": "Vitaj v miestnosti BD334",
     "image": "",
     "coords": {
-      "left": "15%",
+      "left": "20%",
       "top": "15%"
     }
   },
@@ -27,7 +27,7 @@
     "text": "Vitaj v miestnosti BD327",
     "image": "",
     "coords": {
-      "left": "24%",
+      "left": "15%",
       "top": "14%"
     }
   },
