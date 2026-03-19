@@ -46,7 +46,6 @@
       "left": "30%",
       "top": "48%"
     }
-  
   },
   "BD317": {
     "text": "Vitaj v miestnosti BD317",
@@ -72,14 +71,6 @@
       "top": "90%"
     }
   },
-  "BD313": {
-    "text": "Vitaj v miestnosti BD313",
-    "image": "",
-    "coords": {
-      "left": "35%",
-      "top": "94%"
-    }
-  },
   "BD333B": {
     "text": "Vitaj v miestnosti 333",
     "image": "",
@@ -95,8 +86,6 @@
       "left": "50%",
       "top": "23%"
     }
-  },
-
   },
   "BD303": {
     "text": "Vitaj v miestnosti BD303",
@@ -144,14 +133,6 @@
     "coords": {
       "left": "66%",
       "top": "79%"
-    }
-  },
-  "BD310": {
-    "text": "Vitaj v miestnosti BD310",
-    "image": "",
-    "coords": {
-      "left": "66%",
-      "top": "86%"
     }
   },
   "BD311": {
