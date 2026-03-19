@@ -2,53 +2,41 @@
   "BD333": {
     "text": "Vitaj v miestnosti BD333",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg",
-    "coords": { "left": "45%", "top": "5%" }
+    "coords": { "left": "47%", "top": "5%" }
   },
   "BD335": {
     "text": "Vitaj v miestnosti BD335",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg",
-    "coords": { "left": "28%", "top": "5%" }
+    "coords": { "left": "32%", "top": "5%" }
   },
-  "BD334": {
-    "text": "Vitaj v miestnosti BD334",
-    "image": "",
-    "coords": { "left": "18%", "top": "17%" }
-  },
+
   "BD327": {
     "text": "Vitaj v miestnosti BD327",
     "image": "",
     "coords": { "left": "32%", "top": "15%" }
   },
-  "BD323": {
-    "text": "Vitaj v miestnosti BD323",
-    "image": "",
-    "coords": { "left": "18%", "top": "36%" }
-  },
+
   "BD321": {
     "text": "Vitaj v miestnosti BD321",
     "image": "",
-    "coords": { "left": "30%", "top": "46%" }
+    "coords": { "left": "32%", "top": "46%" }
   },
   "BD317": {
     "text": "Vitaj v miestnosti BD317",
     "image": "",
-    "coords": { "left": "28%", "top": "64%" }
+    "coords": { "left": "32%", "top": "64%" }
   },
   "BD316": {
     "text": "Vitaj v miestnosti BD316",
     "image": "",
-    "coords": { "left": "28%", "top": "72%" }
+    "coords": { "left": "32%", "top": "72%" }
   },
   "BD312": {
     "text": "Vitaj v miestnosti BD312",
     "image": "",
-    "coords": { "left": "28%", "top": "88%" }
+    "coords": { "left": "32%", "top": "88%" }
   },
-  "BD333B": {
-    "text": "Vitaj v miestnosti 333",
-    "image": "",
-    "coords": { "left": "18%", "top": "96%" }
-  },
+
   "BD301": {
     "text": "Vitaj v miestnosti BD301",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room4.jpg",
@@ -57,7 +45,7 @@
   "BD303": {
     "text": "Vitaj v miestnosti BD303",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/obr1.jpg",
-    "coords": { "left": "56%", "top": "36%" }
+    "coords": { "left": "51%", "top": "36%" }
   },
   "BD304": {
     "text": "Vitaj v miestnosti BD304",
