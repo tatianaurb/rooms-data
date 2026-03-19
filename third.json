@@ -2,7 +2,7 @@
   "BD333": {
     "text": "Vitaj v miestnosti BD333",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg",
-    "coords": { "left": "47%", "top": "5%" }
+    "coords": { "left": "45%", "top": "5%" }
   },
   "BD335": {
     "text": "Vitaj v miestnosti BD335",
@@ -17,7 +17,7 @@
   "BD327": {
     "text": "Vitaj v miestnosti BD327",
     "image": "",
-    "coords": { "left": "24%", "top": "14%" }
+    "coords": { "left": "32%", "top": "15%" }
   },
   "BD323": {
     "text": "Vitaj v miestnosti BD323",
@@ -52,41 +52,26 @@
   "BD301": {
     "text": "Vitaj v miestnosti BD301",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room4.jpg",
-    "coords": { "left": "55%", "top": "24%" }
+    "coords": { "left": "50%", "top": "24%" }
   },
   "BD303": {
     "text": "Vitaj v miestnosti BD303",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/obr1.jpg",
-    "coords": { "left": "62%", "top": "36%" }
+    "coords": { "left": "56%", "top": "36%" }
   },
   "BD304": {
     "text": "Vitaj v miestnosti BD304",
     "image": "",
-    "coords": { "left": "64%", "top": "46%" }
-  },
-  "BD306": {
-    "text": "Vitaj v miestnosti BD306",
-    "image": "",
-    "coords": { "left": "56%", "top": "36%" }
+    "coords": { "left": "51%", "top": "43%" }
   },
   "BD307": {
     "text": "Vitaj v miestnosti BD307",
     "image": "",
-    "coords": { "left": "64%", "top": "54%" }
+    "coords": { "left": "51%", "top": "55%" }
   },
   "BD308": {
     "text": "Vitaj v miestnosti BD308",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room5.jpg",
-    "coords": { "left": "64%", "top": "66%" }
-  },
-  "BD309": {
-    "text": "Vitaj v miestnosti BD309",
-    "image": "",
-    "coords": { "left": "66%", "top": "76%" }
-  },
-  "BD311": {
-    "text": "Vitaj v miestnosti BD311",
-    "image": "",
-    "coords": { "left": "58%", "top": "84%" }
+    "coords": { "left": "51%", "top": "63%" }
   }
 }
