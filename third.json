@@ -2,148 +2,91 @@
   "BD333": {
     "text": "Vitaj v miestnosti BD333",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg",
-    "coords": {
-      "left": "47%",
-      "top": "4%"
-    }
+    "coords": { "left": "47%", "top": "5%" }
   },
   "BD335": {
     "text": "Vitaj v miestnosti BD335",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg",
-    "coords": {
-      "left": "30%",
-      "top": "4%"
-    }
+    "coords": { "left": "28%", "top": "5%" }
   },
   "BD334": {
     "text": "Vitaj v miestnosti BD334",
     "image": "",
-    "coords": {
-      "left": "20%",
-      "top": "16%"
-    }
+    "coords": { "left": "18%", "top": "17%" }
   },
   "BD327": {
     "text": "Vitaj v miestnosti BD327",
     "image": "",
-    "coords": {
-      "left": "22%",
-      "top": "16%"
-    }
+    "coords": { "left": "24%", "top": "14%" }
   },
   "BD323": {
     "text": "Vitaj v miestnosti BD323",
     "image": "",
-    "coords": {
-      "left": "18%",
-      "top": "37%"
-    }
+    "coords": { "left": "18%", "top": "36%" }
   },
   "BD321": {
     "text": "Vitaj v miestnosti BD321",
     "image": "",
-    "coords": {
-      "left": "30%",
-      "top": "48%"
-    }
+    "coords": { "left": "30%", "top": "46%" }
   },
   "BD317": {
     "text": "Vitaj v miestnosti BD317",
     "image": "",
-    "coords": {
-      "left": "30%",
-      "top": "65%"
-    }
+    "coords": { "left": "28%", "top": "64%" }
   },
   "BD316": {
     "text": "Vitaj v miestnosti BD316",
     "image": "",
-    "coords": {
-      "left": "30%",
-      "top": "70%"
-    }
+    "coords": { "left": "28%", "top": "72%" }
   },
   "BD312": {
     "text": "Vitaj v miestnosti BD312",
     "image": "",
-    "coords": {
-      "left": "30%",
-      "top": "90%"
-    }
+    "coords": { "left": "28%", "top": "88%" }
   },
   "BD333B": {
     "text": "Vitaj v miestnosti 333",
     "image": "",
-    "coords": {
-      "left": "18%",
-      "top": "98%"
-    }
+    "coords": { "left": "18%", "top": "96%" }
   },
   "BD301": {
     "text": "Vitaj v miestnosti BD301",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room4.jpg",
-    "coords": {
-      "left": "50%",
-      "top": "23%"
-    }
+    "coords": { "left": "55%", "top": "24%" }
   },
   "BD303": {
     "text": "Vitaj v miestnosti BD303",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/obr1.jpg",
-    "coords": {
-      "left": "60%",
-      "top": "38%"
-    }
+    "coords": { "left": "62%", "top": "36%" }
   },
   "BD304": {
     "text": "Vitaj v miestnosti BD304",
     "image": "",
-    "coords": {
-      "left": "55%",
-      "top": "50%"
-    }
+    "coords": { "left": "64%", "top": "46%" }
   },
   "BD306": {
     "text": "Vitaj v miestnosti BD306",
     "image": "",
-    "coords": {
-      "left": "55%",
-      "top": "38%"
-    }
+    "coords": { "left": "56%", "top": "36%" }
   },
   "BD307": {
     "text": "Vitaj v miestnosti BD307",
     "image": "",
-    "coords": {
-      "left": "60%",
-      "top": "50%"
-    }
+    "coords": { "left": "64%", "top": "54%" }
   },
   "BD308": {
     "text": "Vitaj v miestnosti BD308",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room5.jpg",
-    "coords": {
-      "left": "60%",
-      "top": "69%"
-    }
+    "coords": { "left": "64%", "top": "66%" }
   },
   "BD309": {
     "text": "Vitaj v miestnosti BD309",
     "image": "",
-    "coords": {
-      "left": "63%",
-      "top": "79%"
-    }
+    "coords": { "left": "66%", "top": "76%" }
   },
   "BD311": {
     "text": "Vitaj v miestnosti BD311",
     "image": "",
-    "coords": {
-      "left": "58%",
-      "top": "80%"
-    }
-  },
- 
-  
-  
+    "coords": { "left": "58%", "top": "84%" }
+  }
 }
