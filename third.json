@@ -12,7 +12,7 @@
 
   "BD327": {
     "text": "Vitaj v miestnosti BD327",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/shot-panoramic-composition-living-room.jpg",
     "coords": { "left": "32%", "top": "15%" }
   },
 
