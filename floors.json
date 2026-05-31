@@ -10,12 +10,12 @@
   },
   "first": {
     "label": "1. poschodie",
-    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/first.jpg",
+    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/maps/third.png",
     "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/first.json"
   },
   "second": {
     "label": "2. poschodie",
-    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/second.jpg",
+    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/maps/third.png",
     "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/second.json"
   },
   "third": {
