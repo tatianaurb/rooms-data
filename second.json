@@ -56,10 +56,4 @@
     "text": "Vitaj v miestnosti BD307",
     "image": "",
     "coords": { "left": "51%", "top": "55%" }
-  },
-  "BD308": {
-    "text": "Vitaj v miestnosti BD308",
-    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room5.jpg",
-    "coords": { "left": "51%", "top": "63%" }
   }
-}
