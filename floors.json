@@ -5,7 +5,7 @@
   },
   "lobby": {
   "label": "Lobby",
-  "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/maps/third.png",
+  "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/lobby.png",
   "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/lobby.json"
 },
   "first": {
