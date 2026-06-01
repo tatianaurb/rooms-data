@@ -1,6 +1,7 @@
 {
-  "lobby": {
+  "Lobby": {
     "text": "Nachádzate sa v lobby. Vstup do budovy je priamo pred vami.",
-    "panorama":"https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/shot-panoramic-composition-living-room.jpg",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/shot-panoramic-composition-living-room.jpg",
+    "coords": { "left": "50%", "top": "50%" }
   }
 }
