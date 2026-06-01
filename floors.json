@@ -4,10 +4,10 @@
     "panorama": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/outside/vonku.jpg"
   },
   "lobby": {
-    "label": "Lobby",
-    "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/maps/lobby.jpg",
-    "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/lobby.json"
-  },
+  "label": "Lobby",
+  "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/maps/third.png",
+  "roomsFile": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/lobby.json"
+},
   "first": {
     "label": "1. poschodie",
     "map": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/maps/third.png",
