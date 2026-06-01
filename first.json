@@ -47,16 +47,6 @@
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/obr1.jpg",
     "coords": { "left": "51%", "top": "36%" }
   },
-  "BD304": {
-    "text": "Vitaj v miestnosti BD304",
-    "image": "",
-    "coords": { "left": "51%", "top": "43%" }
-  },
-  "BD307": {
-    "text": "Vitaj v miestnosti BD307",
-    "image": "",
-    "coords": { "left": "51%", "top": "55%" }
-  },
   "BD308": {
     "text": "Vitaj v miestnosti BD308",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room5.jpg",
