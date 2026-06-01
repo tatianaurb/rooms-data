@@ -2,16 +2,16 @@
   "Vrátnica": {
     "text": "Vrátnica – informácie a vstup do budovy.",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg",
-    "coords": { "left": "47%", "top": "5%" }
+    "coords": { "left": "33%", "top": "18%" }
   },
   "Chodba": {
     "text": "Hlavná chodba lobby.",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg",
-    "coords": { "left": "32%", "top": "30%" }
+    "coords": { "left": "50%", "top": "50%" }
   },
   "Výťah": {
     "text": "Výťah na vyššie poschodia.",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/shot-panoramic-composition-living-room.jpg",
-    "coords": { "left": "51%", "top": "60%" }
+    "coords": { "left": "79%", "top": "83%" }
   }
 }
