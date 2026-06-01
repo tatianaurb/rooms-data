@@ -1,7 +1,17 @@
 {
-  "Lobby": {
-    "text": "Nachádzate sa v lobby. Vstup do budovy je priamo pred vami.",
+  "Vrátnica": {
+    "text": "Vrátnica – informácie a vstup do budovy.",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room-11.jpg",
+    "coords": { "left": "47%", "top": "5%" }
+  },
+  "Chodba": {
+    "text": "Hlavná chodba lobby.",
+    "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/main/images/room2.jpg",
+    "coords": { "left": "32%", "top": "30%" }
+  },
+  "Výťah": {
+    "text": "Výťah na vyššie poschodia.",
     "image": "https://raw.githubusercontent.com/tatianaurb/rooms-data/refs/heads/main/images/shot-panoramic-composition-living-room.jpg",
-    "coords": { "left": "50%", "top": "50%" }
+    "coords": { "left": "51%", "top": "60%" }
   }
 }
